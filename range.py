@@ -8,3 +8,6 @@ print (range(-10,-100,-30)
 list = ["mary","had","a","little","lamb"]
 for i in range(len(list)):
 	print i,list[i]
+	
+	
+print "third edit locally"
