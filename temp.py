@@ -5,3 +5,5 @@ for i in T:
 	f=con(i)
 	print 'Temp={}and frinaite={}'.format(i,f)
 	
+	
+c=(1,2)
