@@ -7,3 +7,6 @@ for i in T:
 	
 	
 c=(1,2)
+
+for i in c:
+	print 'X'
